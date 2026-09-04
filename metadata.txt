@@ -1,0 +1,23 @@
+[general]
+name=Quick Dutch Basemap
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+description=Quickly load PDOK Dutch aerial photo (luchtfoto) WMS basemaps into QGIS with a single click.
+version=1.0
+author=MD Moinul Mobin
+email=mdmoinulmobin@gmail.com
+
+about=Quick Dutch Basemap adds a toolbar button that fetches the current list of PDOK "Luchtfoto" aerial photo WMS layers directly from service.pdok.nl, lets you pick one from a simple dropdown, and loads it into your project instantly in EPSG:28992. No need to manually walk through Add WMS/WMTS Layer every time.
+
+tracker=https://github.com/md-moinul-mobin/Quick-Dutch-Basemap/issues
+repository=https://github.com/md-moinul-mobin/Quick-Dutch-Basemap
+homepage=https://github.com/md-moinul-mobin/Quick-Dutch-Basemap
+
+category=Web
+icon=dutch_basemap.png
+
+tags=wms,basemap,netherlands,aerial,pdok,luchtfoto,orthophoto
+
+experimental=False
+deprecated=False
+license=MIT
